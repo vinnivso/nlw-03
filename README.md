@@ -28,3 +28,8 @@ O Happy é uma aplicação que conecta pessoas à casas de acolhimento instituci
 
 ---
 Projeto clone, realizado durante o NLW-03 da Rocketseat.
+
+## INTEGRANTE
+Perfil      | Link do perfil no GITHUB
+--------- | ------
+[<img src="https://avatars.githubusercontent.com/u/52759918?v=4" width="75px;"/>](https://github.com/vinnivso) | [Vinícius Oliveira](https://github.com/vinnivso)
