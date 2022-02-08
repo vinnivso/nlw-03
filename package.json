@@ -1,14 +1,13 @@
 {
-  "name": "nlw",
+  "name": "challenge-nlw-03",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "repository": "git@github.com:vinnivso/challenge-nlw-03.git",
+  "author": "vinnivso <vinnivsob@gmail.com>",
+  "license": "MIT",
   "scripts": {
     "start": "nodemon src/server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "hbs": "^4.1.1",
